@@ -4,3 +4,4 @@ ipykernel==6.29.5
 statsmodels==0.14.2
 scikit-learn==1.5.1
 seaborn==0.13.2
+pingouin==0.5.4
